@@ -6,4 +6,4 @@ dataset = pd.read_csv('Projetos Python GIT\Python-projects\DataScience\Titanic\T
 
 print(dataset.head() )     #Alteração direto  pelo git, 
 
-# linha adicionada pelo do VS Code
+# linha adicionada pelo do VS Coderr
